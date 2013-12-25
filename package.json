@@ -1,0 +1,19 @@
+{
+  "name": "winchester",
+  "version": "0.0.0",
+  "description": "bandsite",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ksned/winrev.git"
+  },
+  "author": "ksnedeker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ksned/winrev/issues"
+  },
+  "homepage": "https://github.com/ksned/winrev"
+}
